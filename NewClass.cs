@@ -19,5 +19,9 @@ namespace qwe
             Name = name;
         }
 
+        public void DoSomething()
+        {
+            //здесь что-то происходит
+        }
     }
 }
